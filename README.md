@@ -1,2 +1,2 @@
 # meow-log
-A Log programm.
+A logging programm.
